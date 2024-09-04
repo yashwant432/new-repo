@@ -3,7 +3,7 @@
 # Replace the following command with your actual code scanning tool command
 # Example command: 
 # your_code_scanning_tool command_here
-echo "Running code scanning..."
+echo "Running code for oriserve task "
 
 # Placeholder for the actual scanning command
 # For instance, if you're using a linter like ESLint for JavaScript, the command might look like:
@@ -13,4 +13,4 @@ echo "Running code scanning..."
 # your_code_scanning_tool command_here
 
 # Example: Running a simple echo command for demonstration purposes
-echo "Code scanning completed."
+echo "Code run completed."
